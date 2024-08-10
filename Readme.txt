@@ -27,13 +27,9 @@ This project is an online car rental platform built using Object-Oriented Progra
 
 ## Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/online-car-rental-platform.git
-    cd online-car-rental-platform
-    ```
 
-2. **Install Dependencies**:
+
+ **Install Dependencies**:
     This project does not require any external Python libraries. It uses Python’s built-in `datetime` module.
 
 ## How to Run
